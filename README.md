@@ -1,4 +1,4 @@
-##I help developer relations teams build technical content that:
+## I help developer relations teams build technical content that:
 
 - Increases tooling adoption
 - Increases Enterprise and Small Teams integrating AI Frontier tooling
