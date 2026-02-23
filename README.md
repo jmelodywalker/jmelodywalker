@@ -1,6 +1,6 @@
 # Jade Melody Walker
 
-I build developer tools for AI teams — cost estimation, context grounding, output stability."
+I build developer tools for AI teams - cost estimation, context grounding, output stability.
 
 
 ### What I'm building
