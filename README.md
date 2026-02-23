@@ -1,8 +1,17 @@
-## I help developer relations teams build technical content that:
+## Jade Melody Walker
 
-- Increases tooling adoption
-- Increases Enterprise and Small Teams integrating AI Frontier tooling
-- Help user teams pre-plan for token economics
-- Create visible wins for teams
+Building production AI workflows — focused on cost, context, and evaluation.
+
+### Focus Areas
+
+- Token usage estimation (pre-deployment planning)
+- Context evaluation for RAG systems
+- Reasoning variance and output stability tooling
+
+### Selected Projects
+
+- [Token Estimator](https://github.com/jmelodywalker/token-estimator)
+- [ContextEval](https://github.com/jmelodywalker/ContextEval)
+- [TraceBench](https://github.com/jmelodywalker/trace-bench)
 
 
